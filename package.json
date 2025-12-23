@@ -1,6 +1,6 @@
 {
   "name": "json-accessor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Production-grade path-based JSON operations engine for safe CRUD operations on deeply nested structures",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",

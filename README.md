@@ -475,7 +475,7 @@ Perfect for:
 
 ## License
 
-MIT © [Your Name]
+MIT © Rahul Kumar
 
 ## Related Projects
 

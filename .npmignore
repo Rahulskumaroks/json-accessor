@@ -1,0 +1,21 @@
+# Source files
+src/
+benchmarks/
+
+# Config files
+tsconfig.json
+vitest.config.ts
+.eslintrc.json
+
+# Development
+.vscode/
+.idea/
+*.test.ts
+__tests__/
+coverage/
+
+# Docs (keep README)
+CONTRIBUTING.md
+
+# CI/CD
+.github/
